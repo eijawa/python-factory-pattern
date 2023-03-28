@@ -3,6 +3,7 @@
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v1.json)](https://github.com/charliermarsh/ruff)
 
+> This project created for my [article](https://habr.com/ru/post/725340/) at Habr.
 # Python Factory pattern example
 > based on auto-generated module files
 
